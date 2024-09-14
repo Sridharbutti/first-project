@@ -2,8 +2,6 @@
     
     body {
         overflow-x: hidden;
-        margin: 0;
-        padding: 0;
     }
     
     nav {
@@ -296,7 +294,7 @@
     
     .container1 {
         display: flex;
-        justify-content: space-between;
+        padding-right: 20%;
     }
     
     .container1 a {
@@ -306,6 +304,7 @@
     
     .content {
         font-size: 2em;
+        padding-left: 10%;
     }
     
     .s11 a {
@@ -438,7 +437,7 @@
             padding: 0%;
         }
         .arrival {
-            width: 93%;
+            width: 90%;
             height: 10%;
         }
         .products {
