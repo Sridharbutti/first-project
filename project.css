@@ -387,14 +387,16 @@
         }
         .text {
             font-size: 1.5em;
-            margin-left: 22%;
+            margin-left: 26%;
         }
         .text2 {
-            font-size: 0.8em;
-            margin-left: 10%;
+            font-size: 0.5em;
+            margin-left: 20%;
+            text-align: justify;
         }
         .white {
-            font-size: 50%;
+            font-size: 30%;
+            transform: translate(80%)
         }
         .email {
             font-size: 130%;
